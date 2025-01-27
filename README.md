@@ -1,10 +1,10 @@
 # Social Media SDK
 
-A simple SDK that allows you to easily interact with Facebook, Twitter, and LinkedIn APIs. With this SDK, you can post messages to these social media platforms from your Node.js application. It provides a unified interface for posting content across multiple platforms.
+A simple SDK that allows you to easily interact with Facebook, Twitter APIs. With this SDK, you can post messages to these social media platforms from your Node.js application. It provides a unified interface for posting content across multiple platforms.
 
 ## Features
 
-- **Post messages** to Facebook, Twitter, and LinkedIn.
+- **Post messages** to Facebook, Twitter.
 - **Supports OAuth authentication** for each platform.
 - **Easy to integrate** with a Node.js application.
 - Unified interface for working with different social media platforms.
